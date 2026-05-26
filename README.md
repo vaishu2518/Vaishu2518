@@ -22,7 +22,6 @@
 - SQL
 - Data Analysis
 - UI/UX Design
-- HTML & CSS
 - Git & GitHub
 
 ---
