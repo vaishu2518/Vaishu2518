@@ -29,7 +29,7 @@
 ## 🚀 Projects
 
 ### 🎵 Auralytics
-Bird sound classification project using AI concepts.
+Ai based projects which includes pattern detection , chatbot and dashboard.
 
 ### 🎨 Vision Craft
 Creative UI/UX design project built using Figma.
